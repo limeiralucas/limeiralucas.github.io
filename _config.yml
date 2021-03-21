@@ -1,7 +1,7 @@
 # Site
 name: "Lucas Limeira's Dev Blog"
 title: "Lucas Limeira's Dev Blog"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "Tips and random posts from a developer to developers"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
