@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Add Ctrl+L clear to neoterm in neovim"
+title:  "Como exportar cores geradas pelo Pywal para o Kitty"
 author: lucas
 categories: [ linux, tutorial, customization, script ]
 tags: [ pywal, wal, kitty, terminal, linux]
 image: assets/images/kitty.png
-description: "Como exportar cores geradas pelo pywal para o Kitty"
+description: "Usa o Pywal para gerar seu esquema de cores e o Kitty como terminal? Eis uma solução :D"
 featured: true
 hidden: false
 ---
