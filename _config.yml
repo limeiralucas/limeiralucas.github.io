@@ -15,7 +15,7 @@ permalink: /:title/
 authors:
   lucas:
     name: Lucas Limeira
-    description: 'Tech Lead | Software Developer'
+    description: 'Software Developer'
     display_name: Lucas Limeira
     gravatar: 3c8bd1df5f155df08805643ed18dc586 
     email: lucas@limeira.dev
