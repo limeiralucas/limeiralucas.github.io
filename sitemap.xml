@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://blog.limeira.dev/categories/</loc>
+<lastmod>2022-03-16T00:51:30-03:00</lastmod>
+</url>
+<url>
+<loc>https://blog.limeira.dev/tags/</loc>
+<lastmod>2022-03-16T00:51:30-03:00</lastmod>
+</url>
+<url>
+<loc>https://blog.limeira.dev/archives/</loc>
+<lastmod>2022-03-16T00:51:30-03:00</lastmod>
+</url>
+<url>
+<loc>https://blog.limeira.dev/about/</loc>
+<lastmod>2022-03-16T00:51:30-03:00</lastmod>
+</url>
+<url>
+<loc>https://blog.limeira.dev/</loc>
+</url>
+</urlset>
